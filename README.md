@@ -44,7 +44,8 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **PROGRAM**
 
-Developed by:Hemapriya K  RegisterNumber:212223040066
+Developed by: SADHANA SHREE B  
+RegisterNumber:212223230177
 ```
 module jkflipflop(q, qb,j,k,clock,reset);
     input j,k,clock,reset;
