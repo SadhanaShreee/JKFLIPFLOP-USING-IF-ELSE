@@ -43,6 +43,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 ```
 
 **PROGRAM**
+
 Developed by:Hemapriya K  RegisterNumber:212223040066
 ```
 module jkflipflop(q, qb,j,k,clock,reset);
